@@ -24,13 +24,17 @@ we focuses on applying GANs to generate photorealistic human faces. The generato
 
 ## Model Architecture :
 The GAN model consists of two key components:
-##Generator: 
+## Generator: 
 A neural network designed to generate realistic human faces from random noise (latent vectors).
 
 ![sample frame ](/generator.png)
 
-##Discriminator:
+## Discriminator:
 A classifier that distinguishes between real and fake images, providing feedback to the generator.
 The architecture employs deep convolutional layers (DCGAN) for both the generator and discriminator to effectively capture facial features.
 
 ![sample frame ](/discriminator.png)
+
+## General Architecture
+
+![sample frame ](/img2.png)
