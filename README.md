@@ -1,5 +1,6 @@
 # GAN-Generative-Adversarial-Network
 This repo illustrates how GAN -Generative Adversarial Networks can be helpful in creating incredibly highly realistic images and its architecture
+<<<<<<< HEAD
 
 ## Overview :
 
@@ -61,3 +62,5 @@ Sample Frames:
 
 ## Conclusion:
 This POC demonstrates the effectiveness of GANs in generating realistic human faces. Although some improvements can be made, especially in refining artifacts and generating more diverse faces, the model has shown promising results. The flexibility and creativity that GANs offer make them a valuable tool in fields such as gaming, virtual reality, and marketing.
+=======
+>>>>>>> b96cd65067d7cc02de20805f864a23912be01923
