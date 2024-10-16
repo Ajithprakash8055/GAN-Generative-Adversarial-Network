@@ -14,7 +14,7 @@ we focuses on applying GANs to generate photorealistic human faces. The generato
 ## Dataset Details :
 
 | value     | Description |
-| | :------- | :------------------------- |
+| :------- | :------------------------- |
 | Type | Images of real human faces|
 | Dataset Sources| CelebA, FFHQ (Flickr-Faces-HQ) |
 |Preprocessing|resized, normalized, and augmented to improve generalization flipping, cropping, and color normalization|
@@ -38,3 +38,17 @@ The architecture employs deep convolutional layers (DCGAN) for both the generato
 ## General Architecture
 
 ![sample frame ](/img2.png)
+
+## Expected Outcomes:
+A trained GAN capable of generating realistic human faces from random noise inputs.
+A comprehensive report detailing the entire process, from data preparation to model training, evaluation, and result analysis.
+Proposals for further improvements, including using more sophisticated GAN variants such as StyleGAN for generating higher-quality faces.
+ 
+ ## Tools and Technologies:
+
+| key   | value |
+|:------- | :------------------------- |
+| Programming Language| Python|
+| Deep Learning Framework| PyTorch, TensorFlow |
+|Libraries|OpenCV, Matplotlib, torchvision, PIL|
+| Hardware|GPU-enabled device for model training and google colab|
