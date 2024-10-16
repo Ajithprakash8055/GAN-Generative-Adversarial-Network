@@ -52,3 +52,12 @@ Proposals for further improvements, including using more sophisticated GAN varia
 | Deep Learning Framework| PyTorch, TensorFlow |
 |Libraries|OpenCV, Matplotlib, torchvision, PIL|
 | Hardware|GPU-enabled device for model training and google colab|
+
+## Results:
+For demonstration purposes, the model has been trained on a subset of the dataset, and the quality of generated faces is expected to improve as training progresses on larger datasets.
+Sample Frames:
+
+![sample frame ](/gans_training-ezgif.com-optimize.gif)
+
+## Conclusion:
+This POC demonstrates the effectiveness of GANs in generating realistic human faces. Although some improvements can be made, especially in refining artifacts and generating more diverse faces, the model has shown promising results. The flexibility and creativity that GANs offer make them a valuable tool in fields such as gaming, virtual reality, and marketing.
